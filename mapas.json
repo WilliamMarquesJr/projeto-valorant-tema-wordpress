@@ -1,0 +1,62 @@
+[
+    {
+        "id": "CORRODE",
+        "name": "CORRODE",
+        "image_card": "/valorant-projeto/img/corrode.avif"
+    },
+    {
+        "id": "ABYSS",
+        "name": "ABYSS",
+        "image_card": "/valorant-projeto/img/abyss.avif"
+    },
+    {
+        "id": "SUNSET",
+        "name": "SUNSET",
+        "image_card": "/valorant-projeto/img/sunset.avif"
+    },
+    {
+        "id": "LOTUS",
+        "name": "LOTUS",
+        "image_card": "/valorant-projeto/img/lotus.webp"
+    },
+    {
+        "id": "PEARL",
+        "name": "PEARL",
+        "image_card": "/valorant-projeto/img/pearl.avif"
+    },
+    {
+        "id": "FRACTURE",
+        "name": "FRACTURE",
+        "image_card": "/valorant-projeto/img/fracture.avif"
+    },
+    {
+        "id": "BREEZE",
+        "name": "BREEZE",
+        "image_card": "/valorant-projeto/img/breeze.png"
+    },
+    {
+        "id": "ICEBOX",
+        "name": "ICEBOX",
+        "image_card": "/valorant-projeto/img/icebox.avif"
+    },
+    {
+        "id": "ASCENT",
+        "name": "ASCENT",
+        "image_card": "/valorant-projeto/img/ascent.avif"
+    },
+    {
+        "id": "SPLIT",
+        "name": "SPLIT",
+        "image_card": "/valorant-projeto/img/split.avif"
+    },
+    {
+        "id": "HAVEN",
+        "name": "HAVEN",
+        "image_card": "/valorant-projeto/img/haven.avif"
+    },
+    {
+        "id": "BIND",
+        "name": "BIND",
+        "image_card": "/valorant-projeto/img/bind.avif"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "categoria": "Atualizações",
+        "titulo": "Clove: a morte é só o começo",
+        "data": "2024-03-24",
+        "resumo": "A Riot Games revelou a nova personagem de Valorant, Clove, uma agente com habilidades de controle de área e suporte. Ela será lançada no próximo episódio do jogo.",
+        "imagem": "img/clove-valorant-1.jpeg",
+        "conteudo":"<p>E se você pudesse voltar dos mortos? Ou ajudar sua equipe do além? Sem o poder de renascer do Phoenix, morrer no VALORANT é ficar de fora enquanto seus aliados tentam vencer a rodada sem você.</p> <br><br> <p>Com Clove, é possível desafiar a fronteira final: a morte.</p> <br><br> <h3>PARA ALÉM DA MORTE</h3> <br><br> <p>As habilidades de Clove giram em torno do conceito de uma bela morte: morrer em qualquer rodada pode ser apenas o começo.</p> <br><br> <p>Ainda que elu seja Controladore, nem pense em ficar de bobeira na retaguarda com Clove. Para habilitar o kit delu, você terá que correr riscos calculados e mergulhar na batalha. Há uma linha tênue entre jogar com cautela e arriscar tudo, e Clove precisa equilibrar-se nela.</p> <br><br> <p>Vamos conferir as habilidades de Clove e alguns detalhes que o designer de jogo Dan 'penguin' Hardison compartilhou sobre a criação de cada uma delas. Depois, vamos espiar os bastidores do visual, da história e da personalidade de Clove.</p>"
+    },
+    {
+        "id": 2,
+        "categoria": "Atualizações",
+        "data": "2024-08-28",
+        "titulo": "Vyse: Adapte-se ou morra!",
+        "resumo": "A Riot Games anunciou a nova agente de Valorant, Vyse, uma controladora com habilidades de manipulação de terreno e suporte. Ela será lançada no próximo episódio do jogo.",
+        "imagem": "img/vyse-hero.jpg",
+        "conteudo":"<p>Em um mundo onde a adaptação é a chave para a sobrevivência, Vyse surge como a nova agente de Valorant, trazendo consigo habilidades que desafiam as convenções do combate. Com um kit focado em manipulação de terreno e suporte, Vyse promete transformar o campo de batalha em um tabuleiro de xadrez onde cada movimento pode ser decisivo.</p> <br><br> <p>Vyse é uma controladora que se destaca por sua capacidade de criar oportunidades para sua equipe. Suas habilidades permitem que ela controle o espaço, bloqueie linhas de visão e forneça suporte crucial durante as rodadas. A Riot Games tem trabalhado arduamente para garantir que Vyse seja uma adição equilibrada e emocionante ao elenco de agentes, oferecendo aos jogadores novas estratégias e táticas para explorar.</p>"
+    },
+    {
+        "id": 3,
+        "categoria": "Atualizações",
+        "data": "2026-03-16",
+        "titulo": "FLORESCÊNCIA CORROMPIDA // Trailer de Skin Mostre aos inimigos que toda rosa tem espinhos.",
+        "resumo": "A Riot Games revelou a nova skin de Valorant, FLORESCÊNCIA CORROMPIDA, inspirada em uma flor que cresce em ambientes hostis. A skin traz uma estética única e elementos que refletem a natureza tenaz e resistente.",
+        "imagem": "img/florescencia-corrompida.png",
+        "conteudo":"<p>Prepare-se para descobrir a FLORESCÊNCIA CORROMPIDA, a nova skin de Valorant que combina elementos de natureza e resistência. Inspirada em uma flor que cresce em ambientes hostis, essa skin traz uma estética única e elementos que refletem a natureza tenaz e resistente.</p> <br><br> <p>A FLORESCÊNCIA CORROMPIDA é mais do que apenas uma aparência; ela simboliza a força da vida mesmo em meio à adversidade. A Riot Games criou essa skin para celebrar a beleza da resiliência e a capacidade de florescer mesmo em condições difíceis.</p>"
+    }
+]

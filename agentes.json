@@ -1,0 +1,177 @@
+[
+    {
+        "id": "astra",
+        "name": "Astra",
+        "function": "Controladora",
+        "image_card": "/valorant-projeto/img/astra.avif",
+        "icon_function": "/valorant-projeto/img/astra.avif"
+    },
+    {
+        "id": "breach",
+        "name": "Breach",
+        "function": "Iniciador",
+        "image_card": "/valorant-projeto/img/breach.avif",
+        "icon_function": "/valorant-projeto/img/breach.avif"
+    },
+    {
+        "id": "brimstone",
+        "name": "Brimstone",
+        "function": "Controlador",
+        "image_card": "/valorant-projeto/img/brimstone.avif",
+        "icon_function": "/valorant-projeto/img/brimstone.avif"
+    },
+    {
+        "id": "chamber",
+        "name": "Chamber",
+        "function": "Sentinela",
+        "image_card": "/valorant-projeto/img/chamber.avif",
+        "icon_function": "/valorant-projeto/img/chamber.avif"
+    },
+    {
+        "id": "clove",
+        "name": "Clove",
+        "function": "Controladora",
+        "image_card": "/valorant-projeto/img/clove.avif",
+        "icon_function": "/valorant-projeto/img/clove.avif"
+    },
+    {
+        "id": "cypher",
+        "name": "Cypher",
+        "function": "Sentinela",
+        "image_card": "/valorant-projeto/img/cypher.avif",
+        "icon_function": "/valorant-projeto/img/cypher.png"
+    },
+    {
+        "id": "deadlock",
+        "name": "Deadlock",
+        "function": "Sentinela",
+        "image_card": "/valorant-projeto/img/deadlock.avif",
+        "icon_function": "/valorant-projeto/img/deadlock.avif"
+    },
+    {
+        "id": "fade",
+        "name": "Fade",
+        "function": "Iniciadora",
+        "image_card": "/valorant-projeto/img/fade.avif",
+        "icon_function": "/valorant-projeto/img/fade.avif"
+    },
+    {
+        "id": "gekko",
+        "name": "Gekko",
+        "function": "Iniciador",
+        "image_card": "/valorant-projeto/img/gekko.avif",
+        "icon_function": "/valorant-projeto/img/gekko.avif"
+    },
+    {
+        "id": "harbor",
+        "name": "Harbor",
+        "function": "Controlador",
+        "image_card": "/valorant-projeto/img/harbor.avif",
+        "icon_function": "/valorant-projeto/img/harbor.avif"
+    },
+    {
+        "id": "iso",
+        "name": "Iso",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/iso.avif",
+        "icon_function": "/valorant-projeto/img/iso.avif"
+    },
+    {
+        "id": "jett",
+        "name": "Jett",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/jett.avif",
+        "icon_function": "/valorant-projeto/img/jett.avif"
+    },
+    {
+        "id": "kayo",
+        "name": "KAY/O",
+        "function": "Iniciador",
+        "image_card": "/valorant-projeto/img/kayo.avif",
+        "icon_function": "/valorant-projeto/img/kayo.avif"
+    },
+    {
+        "id": "killjoy",
+        "name": "Killjoy",
+        "function": "Sentinela",
+        "image_card": "/valorant-projeto/img/killjoy.avif",
+        "icon_function": "/valorant-projeto/img/killjoy.avif"
+    },
+    {
+        "id": "neon",
+        "name": "Neon",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/neon.avif",
+        "icon_function": "/valorant-projeto/img/neon.avif"
+    },
+    {
+        "id": "omen",
+        "name": "Omen",
+        "function": "Controlador",
+        "image_card": "/valorant-projeto/img/omen.avif",
+        "icon_function": "/valorant-projeto/img/omen.avif"
+    },
+    {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/phoenix.avif",
+        "icon_function": "/valorant-projeto/img/phoenix.avif"
+    },
+    {
+        "id": "raze",
+        "name": "Raze",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/raze.avif",
+        "icon_function": "/valorant-projeto/img/raze.avif"
+    },
+    {
+        "id": "reyna",
+        "name": "Reyna",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/reyna.avif",
+        "icon_function": "/valorant-projeto/img/reyna.avif"
+    },
+    {
+        "id": "sage",
+        "name": "Sage",
+        "function": "Sentinela",
+        "image_card": "/valorant-projeto/img/sage.avif",
+        "icon_function": "/valorant-projeto/img/sage.avif"
+    },
+    {
+        "id": "skye",
+        "name": "Skye",
+        "function": "Iniciadora",
+        "image_card": "/valorant-projeto/img/skye.avif",
+        "icon_function": "/valorant-projeto/img/skye.avif"
+    },
+    {
+        "id": "sova",
+        "name": "Sova",
+        "function": "Iniciador",
+        "image_card": "/valorant-projeto/img/sova.avif",
+        "icon_function": "/valorant-projeto/img/sova.avif"
+    },
+    {
+        "id": "viper",
+        "name": "Viper",
+        "function": "Controladora",
+        "image_card": "/valorant-projeto/img/viper.avif",
+        "icon_function": "/valorant-projeto/img/viper.avif"
+    },
+    {
+        "id": "vyse",
+        "name": "Vyse",
+        "function": "Sentinela",
+        "image_card": "/valorant-projeto/img/vyse.avif",
+        "icon_function": "/valorant-projeto/img/vyse.avif"
+    },
+    {
+        "id": "yoru",
+        "name": "Yoru",
+        "function": "Duelista",
+        "image_card": "/valorant-projeto/img/yoru.avif",
+        "icon_function": "/valorant-projeto/img/yoru.avif"
+    }
+]
