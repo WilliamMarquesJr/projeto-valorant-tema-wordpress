@@ -1,8 +1,8 @@
-# 🎮 Tema WordPress Customizado - Valorant
+# Tema WordPress Customizado - Valorant
 
 Este é um Tema WordPress desenvolvido 100% do zero (sem uso de page builders como Elementor), focado em altíssima performance, estruturação de código limpo e consumo de APIs/JSON.
 
-## 🚀 O que este tema faz?
+## O que este tema faz?
 
 Ao desenvolver este tema, meu objetivo era criar uma experiência automatizada e dinâmica utilizando PHP e JavaScript:
 
@@ -14,14 +14,14 @@ Ao desenvolver este tema, meu objetivo era criar uma experiência automatizada e
 
 * **Performance Extrema:** Construído apenas com HTML, CSS e JS puros convertidos para PHP, eliminando o excesso de DOM (divs) gerado por construtores visuais convencionais.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **PHP** (Lógica do tema, automações e criação de páginas)
 * **HTML5 & CSS3** (Estrutura e Estilização 100% responsiva)
 * **JavaScript** (Interações de Front-end)
 * **JSON** (Base de dados estática)
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1863" height="941" alt="Captura de tela 2026-07-20 114513" src="https://github.com/user-attachments/assets/0103024e-a81b-4d6c-b521-ca89876ae35e" />
 
