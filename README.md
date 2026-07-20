@@ -1,24 +1,28 @@
-Tema WordPress Customizado - Valorant
+# 🎮 Tema WordPress Customizado - Valorant
 
 Este é um Tema WordPress desenvolvido 100% do zero (sem uso de page builders como Elementor), focado em altíssima performance, estruturação de código limpo e consumo de APIs/JSON.
 
-O que este tema faz?
+## 🚀 O que este tema faz?
 
 Ao desenvolver este tema, meu objetivo era criar uma experiência automatizada e dinâmica utilizando PHP e JavaScript:
 
-Instalação Automatizada: O 'functions.php' possui gatilhos que, ao ativar o tema, criam automaticamente todas as páginas necessárias (Home, Agentes, Mapas, etc.) e já configuram a página principal estática do WordPress.
-Consumo de JSON: Os dados dos agentes, mapas e posts não estão engessados no HTML. Eles são gerados dinamicamente via PHP consumindo os arquivos '.json' presentes na raiz do tema, simulando o consumo de uma API externa.
-Customização do WP-Admin: A tela de login padrão do WordPress ('wp-login.php') foi totalmente reestilizada via código com a identidade visual do jogo.
-Performance Extrema: Construído apenas com HTML, CSS e JS puros convertidos para PHP, eliminando o excesso de DOM (divs) gerado por construtores visuais convencionais.
+* **Instalação Automatizada:** O `functions.php` possui gatilhos que, ao ativar o tema, criam automaticamente todas as páginas necessárias (Home, Agentes, Mapas, etc.) e já configuram a página principal estática do WordPress.
 
-Tecnologias Utilizadas
+* **Consumo de JSON:** Os dados dos agentes, mapas e posts não estão engessados no HTML. Eles são gerados dinamicamente via PHP consumindo os arquivos `.json` presentes na raiz do tema, simulando o consumo de uma API externa.
 
-PHP (Lógica do tema, automações e criação de páginas)
-HTML5 & CSS3 (Estrutura e Estilização 100% responsiva)
-JavaScript (Interações de Front-end)
-JSON (Base de dados estática)
+* **Customização do WP-Admin:** A tela de login padrão do WordPress (`wp-login.php`) foi totalmente reestilizada via código com a identidade visual do jogo.
 
-📸 Screenshots
+* **Performance Extrema:** Construído apenas com HTML, CSS e JS puros convertidos para PHP, eliminando o excesso de DOM (divs) gerado por construtores visuais convencionais.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **PHP** (Lógica do tema, automações e criação de páginas)
+* **HTML5 & CSS3** (Estrutura e Estilização 100% responsiva)
+* **JavaScript** (Interações de Front-end)
+* **JSON** (Base de dados estática)
+
+## 📸 Screenshots
+
 <img width="1863" height="941" alt="Captura de tela 2026-07-20 114513" src="https://github.com/user-attachments/assets/0103024e-a81b-4d6c-b521-ca89876ae35e" />
 
 <img width="1865" height="791" alt="Captura de tela 2026-07-20 114538" src="https://github.com/user-attachments/assets/fbd79771-e19c-4d22-991b-a726eeedb6a9" />
