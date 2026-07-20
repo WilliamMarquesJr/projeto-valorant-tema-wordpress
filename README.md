@@ -46,3 +46,7 @@ Ao desenvolver este tema, meu objetivo era criar uma experiência automatizada e
 <img width="1866" height="942" alt="image" src="https://github.com/user-attachments/assets/6a312a85-c256-4359-af0c-b43e654e1a16" />
 
 <img width="1864" height="938" alt="image" src="https://github.com/user-attachments/assets/c20574c9-0365-4693-b225-b9a473d8f562" />
+
+<img width="1865" height="937" alt="image" src="https://github.com/user-attachments/assets/9fddb356-d485-4fa0-a3d2-6a66e6ff50fe" />
+
+<img width="1862" height="932" alt="image" src="https://github.com/user-attachments/assets/79dd502b-d930-4bb7-8041-a282afc88d94" />
